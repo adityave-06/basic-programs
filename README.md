@@ -29,5 +29,5 @@ For example :
 
 ## 🧠 About Me :
 
-I’m a school student passionate about coding, and this repo is my start into the Python + GitHub world 🌍
-Connect on GitHub: @adityave-06
+I’m a school student passionate about coding, and this repo is my start into the Python + GitHub world 🌍  
+Connect on GitHub: **@adityave-06**
