@@ -20,14 +20,14 @@ Ensure you have **Python** installed.
 
 Then open terminal in the directory and execute any file such as:
 
-python filename.py
+***python filename.py***
 
 For example :
 
-python 03_table_generator.py
+*python 03_table_generator.py*
 
 
-🧠 About Me :
+## 🧠 About Me :
 
 I’m a school student passionate about coding, and this repo is my start into the Python + GitHub world 🌍
 Connect on GitHub: @adityave-06
