@@ -1,33 +1,44 @@
-# 🐍 Basic Python Programs
+# 🧠 Basic Python Programs Repository
 
-Hello and welcome to my set of easy-to-understand Python programs!
-This repository is a learning process in which I'm working on simple logic-construction using Python.
+This is my Python sandbox!  
+A personal collection of beginner-friendly Python programs I'm coding while learning and growing as a programmer 🐍💻
 
-## 📜 Programs Included
+---
 
-| No. | File Name                                           | Description                                |
-|-----|-----------------------------------------------------|--------------------------------------------|
-| 01  | `Python Basic Programs/01_sum_two_numbers.py`       | Sums two numbers input by the user         |
-| 02  | `Python Basic Programs/02_even_odd.py`              | Determines whether a number is even or odd |
-| 03  | `Python Basic Programs/03_table_generator.py`       | Displays multiplication table of a number  |
-| 04  | `Python Basic Programs/04_factorial.py`             | Finds factorial through a loop             |
-| 05  | `Python Basic Programs/05_largest_of_three.py`      | Largest of three numbers                   |
-| 06  | `Python Basic Programs/06_sum_n_natural.py`         | Sum of first N natural numbers             |
+## 📁 Folder Overview
 
-## 💻 How to Run These
+| 📂 Folder                  | 📄 Description                                                  |
+|---------------------------|-----------------------------------------------------------------|
+| `Python Basic Programs/`  | Holds my first 6 beginner Python programs — input, loops, and logic building |
+| `Intermediate/`           | Will hold a bit more advanced logic-based programs (Coming soon...) |
+| `String Programs/`        | Will contain string manipulation exercises (Coming soon...)     |
 
-Ensure you have **Python** installed.
+---
 
-Then open terminal in the directory and execute any file such as:
+## 🎯 Purpose of This Repo
 
-***python filename.py***
+- Practice and master fundamental Python concepts.
+- Learn version control using Git and GitHub.
+- Build a solid foundation before diving into advanced material.
 
-For example :
+---
 
-*python 03_table_generator.py*
+## 🧰 Technologies Used
 
+- 🐍 Python 3.x  
+- 💻 VS Code  
+- 🌐 Git + GitHub  
 
-## 🧠 About Me :
+---
 
-I’m a school student passionate about coding, and this repo is my start into the Python + GitHub world 🌍  
-Connect on GitHub: **@adityave-06**
+## 🙋‍♂️ About Me
+
+I'm a student learning Python and Git, and this repo helps me stay consistent and track my growth 📈
+
+Feel free to explore the folders, try out the programs, or suggest ideas!  
+**Stars, forks, or feedback are always welcome** ⭐
+
+---
+
+> ***“Write code, push often, grow daily.”***  
+> – [adityave-06](https://github.com/adityave-06)
