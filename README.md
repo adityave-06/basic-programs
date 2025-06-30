@@ -5,13 +5,21 @@ A personal collection of beginner-friendly Python programs I’m coding while le
 
 ---
 
+## 📚 Table of Contents
+- [📁 Folder Overview](#-folder-overview)
+- [🎯 Purpose of This Repo](#-purpose-of-this-repo)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [👤 About Me](#-about-me)
+
+---
+
 ## 📁 Folder Overview
 
-| 📂 Folder Name                  | 📄 Description                                                                 |
-|--------------------------------|-------------------------------------------------------------------------------|
-| `Python Basic Programs/`       | Simple programs like sum, even-odd, factorial, etc. – for building basics     |
-| `Beginner Python Projects/`    | Beginner-friendly mini projects – calculator, dice roll, word counter, etc.  |
-| `Intermediate Python Projects/`| Slightly more advanced programs – bots, image tools, and API usage           |
+| 📂 Folder Name                          | 📄 Description                                                                 |
+|----------------------------------------|-------------------------------------------------------------------------------|
+| `1. Python Basic Programs/`            | Simple programs like sum, even-odd, factorial, etc. – for building basics     |
+| `2. Beginner Python Projects/`         | Beginner-friendly mini projects – calculator, dice roll, word counter, etc.  |
+| `3. Intermediate Python Projects/`     | Slightly more advanced programs – bots, image tools, and API usage           |
 
 ---
 
@@ -25,7 +33,7 @@ A personal collection of beginner-friendly Python programs I’m coding while le
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python 3.13.5  
+- 🐍 Python 3.x  
 - 📄 VS Code  
 - 🌐 Git & GitHub  
 
