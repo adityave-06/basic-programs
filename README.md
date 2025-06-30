@@ -33,7 +33,7 @@ A personal collection of beginner-friendly Python programs I’m coding while le
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python 3.x  
+- 🐍 Python 3.13.5  
 - 📄 VS Code  
 - 🌐 Git & GitHub  
 
